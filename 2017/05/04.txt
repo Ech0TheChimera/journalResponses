@@ -1,0 +1,2 @@
+prompt = "What would happen if Google Drive disappeared forever?";
+response = "A similar product would take its place (probably Microsoft Office Online or something by Apple). I would probably just start using ithub even more.";

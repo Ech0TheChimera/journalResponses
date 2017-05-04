@@ -1,0 +1,2 @@
+prompt = "What do you think your parent or guardian's American Dream is? Did they achieve it? How are you similar or different to your parent or guardian?";
+response = "I think that my parent's American Dreams are to be profitable and own land. They do own land and are very middle class. I'm similar because I have strands of DNA from them on the account of they birthed me. I'm different in that genetic mutations occur and I don't want to go through some of the same struggles that they do.";

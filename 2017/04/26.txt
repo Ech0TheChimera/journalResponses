@@ -1,0 +1,3 @@
+prompt = "The alien reached down to unearth an old cardboard box from the rubble. It opened the box to find.....";
+details = ["Your response must include the following words","quality","recognize"];
+response = ""

@@ -1,0 +1,3 @@
+prompt = "What are 5 questions you have for the entrepeneurs?";
+details;
+response = ["Have you been bankrupt?","What is your product or service?","How long did it take?","What's your work-life balance like?","What is your net worth?"];

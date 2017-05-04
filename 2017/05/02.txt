@@ -1,0 +1,2 @@
+prompt = "How has the American Dream impacted your life?";
+response = "The American Dream has impacted my life by allowing my dad to start his own business and be self-employed. This has allowed my family and I to spend more time with him and be exposed to various different businesses and their setups. However, it also means that his schedule tends to vary heavily on a day to day basis.";
