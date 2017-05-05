@@ -1,0 +1,2 @@
+prompt = "If you could have one thing that would make your life awesome, what would it be?";
+response = "An insane level of charisma. The most confident, charismatic people have no trouble getting what they want in life. Their confidence and presence opens up doors that otherwise would never be open to someone of their class. They're the people who choose to direct their life rather than just let life's circumstances direct their lives. It is a skill/presence that opens up the ability to speak well, to be driven, and to acomplish great things."
